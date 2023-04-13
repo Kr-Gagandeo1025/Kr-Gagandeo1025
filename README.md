@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Kr-Gagandeo1025
-- 👀 I’m interested in python scripting , Web Development 
-- 🌱 I’m currently learnings React.js Frontend 
+- 👀 I’m interested in python , Web Development
+.    Getting Familiar with skills such as React.js , Next.js , 
+     Express.js , MongoDB , Mongoose , not to forget the basics i know Python , C , C++ , Javascript  
+- 🌱 I’m currently learnings React.js FullStack
 - 📫 How to reach me mail me on kumargagandeo9@gmail.com
 
 <!---
