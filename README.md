@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kr-Gagandeo1025
-- 👀 I’m interested in python , Web Development
-.    Getting Familiar with skill stack such as React.js , Next.js , 
-     Express.js , MongoDB , Mongoose , Strapi , Firebase and not to forget the basics i know Python , C , C++ , Javascript,Java 
-- 🌱 I’m currently learnings React.js FullStack
+- 👀 I’m interested in Web Development and Blockchain, Web 3
+.    Getting Familiar with skill stack such as HTML, CSS, JS, React.js , Next.js , 
+     Express.js , MongoDB , Mongoose , Strapi , Firebase , PstgreSQL, Motoko and not to forget the basics i know Python , C , C++ , Javascript,Java 
+- 🌱 I’m currently a FullStack Developer and Learning WEB 3.0, Smart Contracts and Blockchain
 - 📫 How to reach me mail me on kumargagandeo9@gmail.com
 
 <!---
