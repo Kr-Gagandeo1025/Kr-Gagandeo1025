@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [voxcast.ai](https://voxcast-ai.vercel.app)
 
-- 🌱 I’m currently learning **How to win Hackathons*
+- 🌱 I’m currently learning **How to win Hackathons**
 
 - 👨‍💻 All of my projects are available at [https://kumargagandeo.vercel.app](https://kumargagandeo.vercel.app)
 
