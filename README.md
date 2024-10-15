@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kumargagandeo9@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dKqOzxQlHNh8lZvbYY8_AIWt8oR9f7C6/edit?usp=sharing&ouid=115956492461310516373&rtpof=true&sd=true](https://docs.google.com/document/d/1dKqOzxQlHNh8lZvbYY8_AIWt8oR9f7C6/edit?usp=sharing&ouid=115956492461310516373&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dKqOzxQlHNh8lZvbYY8_AIWt8oR9f7C6/edit?usp=sharing&ouid=115956492461310516373&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I Love Cats 🚗 & Cars 🐱**
 
