@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr-gagandeo1025&label=Profile%20views&color=0e75b6&style=flat" alt="kr-gagandeo1025" /> </p>
 
-- 🔭 I’m currently working on [voxcast.ai](https://voxcast-ai.vercel.app)
+- 🔭 I’m currently working on [GrooveRoom](https://github.com/Kr-Gagandeo1025/GrooveRoom)
 
 - 🌱 I’m currently learning **How to win Hackathons**
 
